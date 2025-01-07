@@ -1,4 +1,4 @@
-## NLP NOTEBOOK 1.6
+## NLP NOTEBOOK 1/6/2025
 
 
 Nihao - Patrick
